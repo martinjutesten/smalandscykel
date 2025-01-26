@@ -1,0 +1,10 @@
+title: "Smålands Cykel"
+description: "Smålands Cykel erbjuder nya, begagnade cyklar, uthyrning, reparation, service, reservdelar mm"
+baseurl: "/smalandscykel" # Används för GitHub Pages
+url: "https://ditt-användarnamn.github.io" # Byt till din GitHub-sida
+theme: minima
+permalink: pretty
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap
