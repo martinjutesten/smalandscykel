@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Välkommen till Smålands Cykel"
-description: "Vi erbjuder cyklar och service i Småland"
+description: "Smålands Cykel erbjuder nya, begagnade cyklar, uthyrning, reparation, service, reservdelar mm"
 ---
 
 <div class="section pb-0">
