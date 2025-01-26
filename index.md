@@ -49,7 +49,7 @@ description: "Vi erbjuder cyklar och service i Småland"
           <p><i>Upplev vårt vackra landskap och vår vackra natur på cykel!</i></p>
           <p><i>Enjoy our province and beautiful sceneries by bike!</i></p>
           <p><i>Erleben Sie Småland und seine schöne Natur mit dem Fahrrad!</i></p>
-          <p><a href="/docs/smalands-cykel-pris.pdf" target="_blank" rel="external">Pris / Price / Preis</a> (PDF)</p>
+          <p><a href="{{ '/docs/smalands-cykel-pris.pdf' | relative_url }}" target="_blank" rel="external">Pris / Price / Preis</a> (PDF)</p>
           <p><a href="https://www.visitsmaland.se/sv" target="_blank" rel="nofollow">Turistbyrån</a> / <a href="https://www.visitsmaland.se/en" target="_blank" rel="nofollow">Tourist Information</a> / <a href="https://www.visitsmaland.se/de" target="_blank" rel="nofollow">Touristeninformation</a></p>
         </aside>
       </div>
